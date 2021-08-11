@@ -12,12 +12,12 @@ Prepare homework
     - Location
   - Education
     - Uni
-      - Engineering Physics xx14 - xx20
+      - Engineering Physics xxxx - xxxx
         - description
         - description2
   - Experiences / Projects
-    - Pure CSS Dark Mode Toggle
-    - Designing Phone App ( With Flutter )
-    - Create SaaS ( Password Generator with Python )
-    - Javascript Neumorphism Clock
+    - Project 
+    - Project 2
+    - Project 3
+    - Project 4
   
