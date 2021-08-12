@@ -1,0 +1,22 @@
+/******* Bootstrap Theming ********/
+$theme-colors: (
+  "primary":    $primary,
+  "secondary":  $secondary,
+  "success":    $success,
+  "info":       $info,
+  "warning":    $warning,
+  "danger":     $danger,
+  "light":      $light,
+  "dark":       $dark
+);
+
+$gradient: linear-gradient(180deg, rgba($white, .15), rgba($white, 0));
+
+$font-family-sans-serif: 'Poppins', sans-serif;
+
+// #projects.card{
+//     display: flex;
+//     justify-content: center;
+//     margin: auto;
+//     padding: 0;
+// }
