@@ -21,5 +21,8 @@ Prepare homework
     - Project 3
     - Project 4
   
-  Test perubahan
+Issues :
+    - Paddings on tools
+    - SASS Styling
+    - Icons Color
   
