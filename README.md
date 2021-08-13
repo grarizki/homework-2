@@ -23,6 +23,5 @@ Prepare homework
   
 Issues :
     - Paddings on projects
-    - SASS Styling
-    - Icons Color
+    - SASS padding on tools 
   
