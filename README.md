@@ -22,7 +22,7 @@ Prepare homework
     - Project 4
   
 Issues :
-    - Paddings on tools
+    - Paddings on projects
     - SASS Styling
     - Icons Color
   
